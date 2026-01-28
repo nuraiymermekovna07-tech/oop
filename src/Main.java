@@ -14,8 +14,8 @@ public class Main {
         System.out.println("Age:" + person1.age);
         System.out.println("Gender:" + person1.gender);
         System.out.println("Nation:" + person1.nation);
-        System.out.println("Prof:" + person1.profession);
-        System.out.println("Holostoi:" + person.holostoi);
+        System.out.println("Prof:" + person1.proffession);
+        System.out.println("Holostoi:" + person1.holostoi);
 
 
         System.out.println(person1.run());
